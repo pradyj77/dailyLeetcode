@@ -61,4 +61,3 @@ class Solution:
             oddJump += 2
 
         return zigzagString
-    
